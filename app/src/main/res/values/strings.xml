@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DineView</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="my_reviews">My Reviews</string>
+    <string name="favorites">Favorites</string>
+</resources>
